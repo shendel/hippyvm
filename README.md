@@ -28,7 +28,7 @@ Building
     
 1. Install system packages: 
 
-   * `libpcre-dev` 
+   * `libpcre-dev` $ sudo apt-get install libpcre3-dev
    * `php5`
    * `libffi5-dev`
 
