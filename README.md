@@ -11,6 +11,7 @@ ARMv6 and ARMv7 on windows, os x and linux).
 Building
 ========
 0. Install PyPy (Debian)
+    
     $ sudo add-apt-repository ppa:pypy/ppa
 
     $ sudo apt-get update
