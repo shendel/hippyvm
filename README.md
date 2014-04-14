@@ -10,7 +10,12 @@ ARMv6 and ARMv7 on windows, os x and linux).
 
 Building
 ========
+0. Install PyPy (Debian)
+    $ sudo add-apt-repository ppa:pypy/ppa
 
+    $ sudo apt-get update
+    
+    $ sudo apt-get install pypy
 1. You will need this repository, so please make yourself a "clone" :)
 1. Install Python dependecies from `requirements.txt` file. The usual way is to create a [virtualenv](http://www.virtualenv.org/en/latest/) and then inside, but installing system wide (with sudo) is possible as well. Then: 
 
